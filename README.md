@@ -13,4 +13,4 @@ Ce projet est un portfolio simple pour une société de construction. Il met en 
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/portfolio-societe-construction.git
+   [git clone https://github.com/votre-utilisateur/portfolio-societe-construction.git](https://github.com/ayoubmajid67/haelt.git)
