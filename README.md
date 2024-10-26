@@ -1,9 +1,11 @@
 # Portfolio de la Société de Construction
-# Portfolio de la Société de Construction
-
 ![Company Logo](imgs/haeltLogo.webp)
-## Description
 Ce projet est un portfolio simple pour une société de construction. Il met en valeur les différents projets réalisés, avec des détails sur chaque projet, y compris le montant, la date d'exécution, et le maître d'ouvrage.
+
+
+[View Site](https://ayoubmajid67.github.io/haelt/) ✔️ 
+![Home page](./logo.png)
+
 
 ## Technologies Utilisées
 - **HTML** : Pour la structure des pages.
