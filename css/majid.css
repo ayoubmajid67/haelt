@@ -1683,9 +1683,10 @@ a {
 }
 
 .videos .holder .list ul li {
+
     padding: 20px;
     border-top: 1px solid var(--sectionBk);
-    cursor: pointer;
+    cursor: not-allowed;
     transition: var(--mainTransitionDuration);
 }
 
